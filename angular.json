@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "magzter"
+    }
+  },
+  "defaultProject": "magzter",
+  "cli": {
+    "analytics": "79c090be-392f-4931-aa26-56286e5b1bd3"
+  }
 }
